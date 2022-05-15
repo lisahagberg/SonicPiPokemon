@@ -1,5 +1,5 @@
 use_synth :blade
-use_bpm 66
+use_bpm 65
 
 #Intro fast run
 in_thread do
